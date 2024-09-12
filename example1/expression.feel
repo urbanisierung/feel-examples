@@ -1,0 +1,4 @@
+for
+  fruit in [ "apple2", "bananas2" ], vegetable in vegetables
+return
+  { ingredients: [ fruit, vegetable ] }
